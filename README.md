@@ -6,8 +6,9 @@
 - 💞️ I’m looking to collaborate on ...
 - Any projects in python that may give me some more experience
 - 📫 How to reach me
-- Personal Email: Bernardaagy17@outlook.com
+- Personal Email: Bernardagy17@outlook.com
 - School Email: agyemanbk2@vcu.edu
+- LinkedIn: https://www.linkedin.com/in/bernard-agyeman-kb/
 
 <!---
 bnard-kba/bnard-kba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
